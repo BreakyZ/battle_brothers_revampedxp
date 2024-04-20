@@ -1,7 +1,7 @@
 ::ModXpRevamped <- {
 	ID = "revampedxp_hooks",
 	Name = "Mod XP Revamped",
-	Version = "1.0.0"
+	Version = "1.0.2"
 };
 
 ::ModXpRevamped.HooksMod <- ::Hooks.register(::ModXpRevamped.ID, ::ModXpRevamped.Version, ::ModXpRevamped.Name);
